@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/me/git/fritz/src/fritzio.cc
+stdio.h
+-
+string.h
+-
+iostream
+-
+memory
+-
+fitsio.h
+-
+opencv2/imgproc.hpp
+-
+
+/home/me/libs/cfitsio/include/fitsio.h
+stdio.h
+-
+sys/types.h
+-
+stdlib.h
+-
+limits.h
+-
+longnam.h
+/home/me/libs/cfitsio/include/longnam.h
+
+/home/me/libs/cfitsio/include/longnam.h
+

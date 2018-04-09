@@ -1,0 +1,3 @@
+/home/me/git/fritz/build/CMakeFiles/rebuild_cache.dir
+/home/me/git/fritz/build/CMakeFiles/fritz.dir
+/home/me/git/fritz/build/CMakeFiles/edit_cache.dir
